@@ -7,3 +7,6 @@ Public Class Subtraction
         system.out.println("Subtration is" +Difference);
      }
 .....
+
+
+i chnaged the code 
